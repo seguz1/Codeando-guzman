@@ -1,0 +1,10 @@
+.antes {
+  background-color: black;
+  justify-content: center;
+  display: grid;
+}
+.antes .letra {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+}/*# sourceMappingURL=antes.css.map */

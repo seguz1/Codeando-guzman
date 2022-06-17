@@ -1,0 +1,25 @@
+section{
+    grid-area: galeria;
+    background-color: rgba(75,185,189,0.991);
+    section{
+        background-color: goldenrod;
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        grid-template-rows: 1fr;
+        gap:15px;
+        justify-items:center;
+        margin:0;
+        height: auto;
+        padding: 1.5em;
+    }
+    img{
+        width: 300px;
+        height: 250px;
+        border: 8px solid #43d120;
+        margin-top: 15px;
+        width: 200px;
+        height: 150px;
+    
+        margin-top: 20px;
+    }    
+}
